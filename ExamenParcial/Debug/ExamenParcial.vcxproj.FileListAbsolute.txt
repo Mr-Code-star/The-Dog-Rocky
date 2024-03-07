@@ -1,0 +1,2 @@
+C:\Users\SEBASTIAN\source\repos\ExamenParcial\ExamenParcial\Debug\ExamenParcial.vcxproj.AssemblyReference.cache
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Debug\ExamenParcial.vcxproj.AssemblyReference.cache

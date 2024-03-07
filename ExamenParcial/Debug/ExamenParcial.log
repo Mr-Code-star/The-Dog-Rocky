@@ -1,0 +1,15 @@
+﻿  ExamenParcial.cpp
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(83,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(100,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(127,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(141,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(201,4): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(214,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\ExamenParcial.cpp(11,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\ExamenParcial.cpp(17,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\ExamenParcial.cpp(19,30): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\ExamenParcial.cpp(34,13): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(194): warning C4700: se utilizó la variable local 'y' sin inicializar
+C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\ExamenParcial\Juego.h(208): warning C4700: se utilizó la variable local 'y' sin inicializar
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  ExamenParcial.vcxproj -> C:\Users\SEBASTIAN\OneDrive\Escritorio\ExamenParcial\Debug\ExamenParcial.exe
